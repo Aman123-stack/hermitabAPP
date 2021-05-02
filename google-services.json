@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241851779424",
+    "project_id": "hermitlabsapp",
+    "storage_bucket": "hermitlabsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241851779424:android:1ee1887aadc8d48b37b605",
+        "android_client_info": {
+          "package_name": "com.internshala.hermitlabsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241851779424-20equecfgdsi0rqkp6pt3locr38nbaf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBaUZnx1OB8Bp3isZB0xKAC9rfo5tmDWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241851779424-20equecfgdsi0rqkp6pt3locr38nbaf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

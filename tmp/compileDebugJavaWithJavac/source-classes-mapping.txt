@@ -1,0 +1,2 @@
+com/internshala/hermitlabsapp/BuildConfig.java
+ com.internshala.hermitlabsapp.BuildConfig

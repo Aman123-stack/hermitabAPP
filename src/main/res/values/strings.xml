@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HermitLabsApp</string>
+    <string name="partnership_in_practice">PARTNERSHIP IN PRACTICE</string>
+    <string name="tega">Tega</string>
+    <string name="tega_app">Tega App</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="confirm_password">Confirm-password</string>
+    <string name="Email">Email</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SIGNUP</string>
+    <string name="home">Home</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="hello_johnie">Hello,Johnie</string>
+    <string name="Hello_johnie">Hello Johnie</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="screen_forms">Screen Forms</string>
+    <string name="special_report">Special Report</string>
+    <string name="screen_eff">Screen Eff</string>
+    <string name="you_will_be_able_to_see_the_messages_here">You will be able to see the messages here</string>
+    <string name="you_will_be_able_to_see_your_profile_here">You will be able to see your profile here</string>
+    <string name="you_will_be_able_to_see_the_settings_here">You will be able to see the settings here</string>
+    <string name="you_will_be_able_to_see_the_logout_page_here">you will be able to see the logout page here</string>
+</resources>
